@@ -3,6 +3,12 @@
 ## Class Description
 Calling all Harry Potter fans! Come build a simple chatbot based on the sorting hat! We'll go over the NLP/AI that goes into writing a legit chatbot before trying your hand at your own, simplified sorting hat! All experience levels are welcome!
 
+## Instructions for setup
+1. Make a github account if you don't already have one and log in
+2. Click the "Fork" button in the top right corner to make your own copy of the repository
+3. Go to your forked repository and clone onto your local machine
+For beginners, here's a tutorial on [how to fork and clone with git](https://help.github.com/en/articles/fork-a-repo "Forking a Repo with Git").
+
 ## Repository Contents
 ### Python_Bot
 Contains code for a simplified chatbot that does not use AI/NLP (HPSortingBot.py) and a "multipage" skeleton example for those who want to try making a GUI (tkintertest.py). There is also a picture of a sorting hat (hat.jpeg) that students can incorporate on their own if they want to add a GUI/change up the code. 
